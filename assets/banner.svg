@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-label="Hassan Ouahmane — Full-Stack Mobile and Backend Developer">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101411"/><stop offset="1" stop-color="#26351c"/></linearGradient><radialGradient id="glow"><stop stop-color="#c2f970" stop-opacity=".16"/><stop offset="1" stop-color="#c2f970" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="230" rx="16" fill="url(#bg)"/>
+<ellipse cx="600" cy="100" rx="500" ry="210" fill="url(#glow)"/>
+<g fill="none" stroke="#c2f970" stroke-opacity=".16"><ellipse cx="1060" cy="100" rx="150" ry="75" transform="rotate(-28 1060 100)"/><ellipse cx="120" cy="100" rx="130" ry="64" transform="rotate(30 120 100)"/></g>
+<text x="600" y="94" text-anchor="middle" font-family="Arial, sans-serif" font-size="46" font-weight="700" fill="#f2f4ed">Hassan Ouahmane<tspan fill="#c2f970">.</tspan></text>
+<text x="600" y="137" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#c2f970">Full-Stack Mobile &amp; Backend Developer</text>
+<text x="600" y="172" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#abb4a7">Software Engineering @ ENSIASD</text>
+<path d="M0 208 Q160 185 310 208 T610 208 T910 208 T1210 208 L1200 230 L0 230Z" fill="#c2f970" opacity=".12"/>
+</svg>
