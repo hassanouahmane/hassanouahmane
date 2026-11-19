@@ -1,36 +1,42 @@
-# Hi, I'm Hassan Ouahmane
+<div align="center">
 
-**Software Engineering student at ENSIASD · Full-Stack Mobile & Backend Developer**
+<img src="assets/banner.svg" width="100%" alt="Hassan Ouahmane — Full-Stack Mobile & Backend Developer" />
 
-I build mobile applications and backend services, with an interest in AI-powered features. Through four internships, I have worked across mobile, web, backend and desktop development.
+<p>
+  <a href="https://hassan-ouahmane-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-101411?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=C2F970" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ouahmane-hassan-289623265/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:hassanouahmane04@gmail.com"><img src="https://img.shields.io/badge/Email-101411?style=for-the-badge&amp;logo=gmail&amp;logoColor=C2F970" alt="Email" /></a>
+</p>
 
-I'm looking for a **final-year internship from January to July 2027** in mobile development, backend engineering or applied AI.
+**Seeking a final-year internship · January – July 2027**
 
-[Portfolio](https://hassan-ouahmane-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ouahmane-hassan-289623265/) · [Email](mailto:hassanouahmane04@gmail.com)
+</div>
 
-## Technologies I work with
+### About me
 
-- **Mobile:** React Native, Expo, Flutter, Dart
-- **Backend:** Java, Spring Boot, Laravel, REST APIs
-- **Frontend:** React, Next.js, TypeScript, JavaScript, HTML, CSS
-- **Databases:** PostgreSQL, MySQL, Redis, SQLite, Firebase
-- **Tools & testing:** Git, Docker, GitHub Actions, Jest, JUnit
-- **AI:** Gemini API, Python, FastAPI, LangChain, RAG
+Software Engineering student at **ENSIASD**, building mobile apps and backend services. Four internships across mobile, web and desktop development, with an interest in applied AI.
 
-## Selected projects
+### Tech stack
 
-- **OdemLab** — A beauty e-commerce app with AI facial diagnosis, product recommendations, skincare routines and a Spring Boot backend. Developed during my PFA internship at ZORIUM.
-- **MediExpress** — A medical analysis tracking platform built with Laravel, React and MySQL during my internship at MOUSSASOFT.
-- **Smart Campus Companion** — A Flutter app for room bookings, announcements and QR/AR attendance.
-- **Explore Taroudant** — A tourism platform showcasing local heritage and cultural activities, built with Java, Spring Boot and MySQL.
+<div align="center">
 
-See screenshots and project details on [my portfolio](https://hassan-ouahmane-portfolio.vercel.app/#projets).
+<img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,laravel&amp;theme=dark" alt="Java, Spring, React, TypeScript, JavaScript, Laravel" /><br />
+<img src="https://skillicons.dev/icons?i=flutter,postgres,mysql,redis,docker,git&amp;theme=dark" alt="Flutter, PostgreSQL, MySQL, Redis, Docker, Git" />
 
-## Education
+</div>
 
-- **Software Engineering, engineering degree** — ENSIASD, Taroudant · 2024–2027
-- **DUT in Computer Engineering** — EST Agadir · 2022–2024
+### Selected projects
 
-**Languages:** Arabic, French and English.
+| Project | What I built |
+| --- | --- |
+| [**OdemLab**](https://hassan-ouahmane-portfolio.vercel.app/#projets) | Beauty e-commerce app with AI facial diagnosis, recommendations and skincare routines. |
+| [**MediExpress**](https://github.com/hassanouahmane/MediExpress-) | Web platform for medical analysis tracking and dedicated user dashboards. |
+| [**Explore Taroudant**](https://github.com/hassanouahmane/ExploreTaroudant) | Tourism platform showcasing local heritage and cultural activities. |
 
-I'm open to collaborating on mobile, web and backend projects.
+<div align="center">
+
+**Arabic · French · English**
+
+Let's build something useful together.
+
+</div>
